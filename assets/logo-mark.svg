@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="48" height="48" role="img" aria-label="LiveMatch">
+  <g fill="none" stroke-width="4.4" stroke-linecap="round">
+    <path d="M22 6 H17 A11 11 0 0 0 6 17 V31 A11 11 0 0 0 17 42 H22" stroke="#25F4EE"/>
+    <path d="M26 6 H31 A11 11 0 0 1 42 17 V31 A11 11 0 0 1 31 42 H26" stroke="#E1164C"/>
+  </g>
+</svg>
